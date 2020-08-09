@@ -42,4 +42,4 @@ In case figure is not displayed run "jupyter nbextension enable --py gmaps" in t
 ## Authors
 * **Gotam Dahiya** - *Creation of data collection and heat map generation script*
 
-For reference, please refer : (Service)[https://gist.github.com/emxsys/a507f3cad928e66f6410e7ac28e2990f#:~:text=Example%20Python%20Script&text=You%20can%20execute%20it%20by,folder%20(home%2Fpi%2F)]
+For reference, please refer : [Service](https://gist.github.com/emxsys/a507f3cad928e66f6410e7ac28e2990f#:~:text=Example%20Python%20Script&text=You%20can%20execute%20it%20by,folder%20(home%2Fpi%2F))
